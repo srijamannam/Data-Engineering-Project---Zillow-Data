@@ -1,7 +1,9 @@
 # Zillow_Data_Analysis
 
-**Objective:** The primary aim of this project is to build and automate a Python ETL process for extracting real estate property data from the Zillow Rapid API and loading it into AWS services for further transformation and visualization.
+**Objective:** 
 
+The primary aim of this project is to build and automate a Python ETL process for extracting real estate property data from the Zillow Rapid API and loading it into AWS services for further transformation and visualization.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Tools & Technologies:**
 
 **Python:** Utilized for creating the ETL process
@@ -11,8 +13,9 @@
 **AWS Services:** The project will extensively use various AWS services such as S3, Lambda, Redshift, and Quicksight.
 
 **Zillow Rapid API:** The source of real estate property data.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Workflow:
+**Workflow:**
 
 **Data Extraction:** The data is extracted from the Zillow Rapid API
 
