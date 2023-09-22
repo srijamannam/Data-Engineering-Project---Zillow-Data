@@ -3,6 +3,7 @@
 **Objective:** The primary aim of this project is to build and automate a Python ETL process for extracting real estate property data from the Zillow Rapid API and loading it into AWS services for further transformation and visualization.
 
 **Tools & Technologies:**
+
 Python: Utilized for creating the ETL process
 
 Apache Airflow: An open-source platform used for orchestrating and scheduling workflows. It will be installed from scratch during the project.
@@ -11,7 +12,8 @@ AWS Services: The project will extensively use various AWS services such as S3, 
 
 Zillow Rapid API: The source of real estate property data.
 
-***Workflow:***
+**Workflow:**
+
 **Data Extraction:** The data is extracted from the Zillow Rapid API
 
 **Load to S3:** The extracted data is loaded into an Amazon S3 bucket
