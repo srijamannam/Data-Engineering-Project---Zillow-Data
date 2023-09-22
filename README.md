@@ -12,7 +12,7 @@
 
 **Zillow Rapid API:** The source of real estate property data.
 
-**Workflow:**
+Workflow:
 
 **Data Extraction:** The data is extracted from the Zillow Rapid API
 
