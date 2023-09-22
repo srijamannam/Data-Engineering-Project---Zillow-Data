@@ -29,6 +29,7 @@ The primary aim of this project is to build and automate a Python ETL process fo
 
 **Visualization with Quicksight:** Amazon Quicksight is then connected to the Redshift cluster to visualize the data
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Architecture diagram:
 ![image](https://github.com/srijamannam/Data-Engineering-Project---Zillow-Data/assets/92010369/ee904bec-e7bf-4037-b9c6-69a839bd0ee6)
