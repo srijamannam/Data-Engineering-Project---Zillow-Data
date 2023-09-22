@@ -4,13 +4,13 @@
 
 **Tools & Technologies:**
 
-Python: Utilized for creating the ETL process
+**Python:** Utilized for creating the ETL process
 
-Apache Airflow: An open-source platform used for orchestrating and scheduling workflows. It will be installed from scratch during the project.
+**Apache Airflow:** An open-source platform used for orchestrating and scheduling workflows. It will be installed from scratch during the project.
 
-AWS Services: The project will extensively use various AWS services such as S3, Lambda, Redshift, and Quicksight.
+**AWS Services:** The project will extensively use various AWS services such as S3, Lambda, Redshift, and Quicksight.
 
-Zillow Rapid API: The source of real estate property data.
+**Zillow Rapid API:** The source of real estate property data.
 
 **Workflow:**
 
